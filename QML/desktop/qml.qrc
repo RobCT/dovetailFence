@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Views/main.qml</file>
+        <file>Views/Tumbler11.qml</file>
+        <file>Views/TumblerColumnComponent11.qml</file>
+        <file>images/bevel30.png</file>
+        <file>images/shadow.png</file>
+        <file>images/tumblerbottom.png</file>
+        <file>images/tumblermiddle.png</file>
+        <file>images/tumblertop.png</file>
+        <file>Views/Arduino.qml</file>
+        <file>serial.cpp</file>
+        <file>serial.h</file>
+        <file>javascript/jointPaths.js</file>
+        <file>javascript/arduino.js</file>
+        <file>filereader.cpp</file>
+        <file>filereader.h</file>
+    </qresource>
+</RCC>

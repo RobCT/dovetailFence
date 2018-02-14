@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>blue.cpp</file>
+        <file>blue.h</file>
+        <file>filereader.cpp</file>
+        <file>filereader.h</file>
+    </qresource>
+</RCC>
